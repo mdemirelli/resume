@@ -12,7 +12,7 @@ const Logo = () => {
         />
       </span>
       <h1 className="text-5 text-white text-center mb-0 d-lg-block">
-        Musa Demirelli
+        Sinem Kara
       </h1>
     </a>
   );
